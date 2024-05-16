@@ -17,7 +17,7 @@
   <tr>
     <td align="center">
       <ul>
-        <li style="text-align:left"><a href="https://github.com/mangodm-web" style="text-align:center;">Damin Huh 허다미</a></li>
+        <li style="text-align:left"><a href="https://github.com/mangodm-web" style="text-align:center;">Dami Huh 허다미</a></li>
       </ul>
     </td>
     <td align="center">
